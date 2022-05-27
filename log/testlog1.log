@@ -1,0 +1,10 @@
+2022-05-26 20:07:16,743 [main] INFO ebanking - User name is provided
+2022-05-26 20:07:25,772 [main] INFO ebanking - Passsword is provided
+2022-05-26 20:07:38,729 [main] INFO ebanking - providing customer details....
+2022-05-26 20:16:25,627 [main] INFO ebanking - URL is opened
+2022-05-26 20:16:31,016 [main] INFO ebanking - Entered username
+2022-05-26 20:16:31,276 [main] INFO ebanking - Entered password
+2022-05-26 20:16:38,642 [main] INFO ebanking - Login test passed
+2022-05-26 20:17:20,560 [main] INFO ebanking - User name is provided
+2022-05-26 20:17:20,710 [main] INFO ebanking - Passsword is provided
+2022-05-26 20:17:33,920 [main] INFO ebanking - providing customer details....
