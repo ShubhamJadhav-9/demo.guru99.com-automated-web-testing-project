@@ -1,6 +1,6 @@
 # demo.guru99.com-automation-web-testing-project
 
-Introduction = Its a dummy website from internet &amp; i performed testing on that website.
+Introduction = Its a dummy website from internet & I performed testing on that website.
 
 Link = demo.guru99.com/v4/
 
